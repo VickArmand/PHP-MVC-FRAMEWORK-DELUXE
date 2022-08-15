@@ -1,0 +1,19 @@
+{
+    "name": "vickfury/phpmvc01",
+    "autoload": {
+        "psr-4": {
+            "Vickfury\\Phpmvc01\\": "src/",
+            "app\\":"./"
+        }
+    },
+    "authors": [
+        {
+            "name": "Vicranzer",
+            "email": "victormaina1962@gmail.com"
+        }
+    ],
+   
+    "require": {
+        "vlucas/phpdotenv": "^5.4"
+    }
+}
